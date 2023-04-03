@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/luiscarbuccia/static/css/main.ea4f7f35.css",
+    "main.js": "/luiscarbuccia/static/js/main.65f0d046.js",
+    "static/js/787.fe60bcd9.chunk.js": "/luiscarbuccia/static/js/787.fe60bcd9.chunk.js",
+    "static/media/home.mp4": "/luiscarbuccia/static/media/home.bb43f9730aa282f0f01d.mp4",
+    "static/media/resume.pdf": "/luiscarbuccia/static/media/resume.99a5fde06611b8d1182f.pdf",
+    "static/media/slick.svg": "/luiscarbuccia/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/luiscarbuccia/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/luiscarbuccia/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/luiscarbuccia/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/luiscarbuccia/index.html",
+    "main.ea4f7f35.css.map": "/luiscarbuccia/static/css/main.ea4f7f35.css.map",
+    "main.65f0d046.js.map": "/luiscarbuccia/static/js/main.65f0d046.js.map",
+    "787.fe60bcd9.chunk.js.map": "/luiscarbuccia/static/js/787.fe60bcd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4f7f35.css",
+    "static/js/main.65f0d046.js"
+  ]
+}
